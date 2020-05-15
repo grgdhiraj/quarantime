@@ -4,6 +4,8 @@ _A period of time when there is restriction on the movement of people and goods 
 ### What is this?
 It is a part of my [Pasture Plan project](https://github.com/grgdhiraj/PasturePlan), where as a plan create a static website using plain HTML and CSS.
 
+![](https://i.imgur.com/nHaIelI.png)
+
 ### What is this about?
 This project is about a collection of useful websites for everyone who has the access to the Internet and are in the state of quarantine during this #COVID19 pandemic. 
 
