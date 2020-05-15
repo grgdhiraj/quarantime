@@ -1,0 +1,16 @@
+body{
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+   
+}
+li {
+    display: inline;
+  }
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto; /*Positioning image in center */
+        height: 360px;
+        width: 360px;
+    }
